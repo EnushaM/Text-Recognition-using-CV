@@ -1,1 +1,1 @@
-# Text-Recognition-using-CV
+Text Recognition skills are intended to make it easier to identify and store the text information present in the Images. Here I've worked with a bundle of licence plate images to get the output of same licence plate with the text identified overwritten on it.
